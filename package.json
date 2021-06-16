@@ -1,0 +1,7 @@
+{
+  "name": "messagechat",
+  "version": "1.0.0",
+  "description": "A plugin for Dragory's Discord ModMail that allows staff to message chat as the bot through commands",
+  "main": "./messageChat.js",
+  "author": "YetAnotherConnor"
+}
